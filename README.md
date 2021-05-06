@@ -1,5 +1,5 @@
 # Ski Mountain Resort Capstone Project
-Big Mountain Resort, who has recently installed an additional chair lift to increase distribution of visitors across the mountain has resulted in the operating costs increasing by $1,540,000 this season. The resort investors are looking for a solution to increase this year’s annual revenue in the form of more footfalls to offset the increasing operating costs keeping in mind that it faces tough competition from nearly 330 resorts in the US.
+In this capstone project I developed a data-driven business-strategy for a ski resort seeking to either cut costs or increase ticket prices based on various economic factors.
 
 ## Tools and Editors
 Jupyter Notebook and Anaconda Prompt
