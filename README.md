@@ -1,4 +1,4 @@
-# Ski Mountain Resort Capstone Project
+# Ski Mountain Resort Capstone
 In this capstone project I developed a data-driven business-strategy for a ski resort seeking to either cut costs or increase ticket prices based on various economic factors.
 
 ## Tools and Editors
