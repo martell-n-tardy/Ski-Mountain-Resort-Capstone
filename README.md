@@ -1,4 +1,4 @@
-![](https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone/blob/main/images/WhitefishResort.png)
+![](https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone/blob/master/images/WhitefishResort.png)
 # Ski Mountain Resort Capstone
 An end-to-end project completed for Whitefish Mountain Resort, located at Big Mountain in northwestern Montana. 
 
