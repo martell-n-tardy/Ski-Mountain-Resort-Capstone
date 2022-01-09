@@ -48,10 +48,10 @@ NumPy, Pandas, Matplotlib, Seaborn, and Sklearn
     - co-relation coefficients 
     - model performance metrics
 * Final Model Selection
-  - Linear Regression model performance was compared to the performance of the Random Forest Regression model. 
-    - The result was the Random Forest model had a lower cross-validation mean absolute error by almost a $1. 
+  - Linear Regression model vs. Random Forest Regression model. 
+    - The result was the Random Forest model performance had a lower cross-validation mean absolute error by almost a $1. 
     - It also exhibited less variability and its performance on the test set produced a performance consistent with its cross-validation results. 
-  - Therefore, the Random Forest Regression model was the model used moving forward for in this project.
+  - Therefore, the Random Forest Regression model was the model used for this project.
 
 **Are you interested in knowing what were the final suggestions for Whitefish Resort??**
 See "Step Five - Modeling" for an in-depth detailing of the steps taken or check out the "Guided Capstone Slide Deck" to get a quick overview.
