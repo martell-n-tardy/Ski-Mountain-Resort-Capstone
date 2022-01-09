@@ -15,7 +15,8 @@ More information on Whitefish Mountain Resort (a.k.a Big Mountain) can be found 
 * **Step Three - Exploratory Data Analysis:** A folder containing the EDA code work for this project. This work was completed in Python using a Jupyter notebook.
 * **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
 * **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
-
+* **Guided Capstone Project Report:** A PDF document detailing the end-to-end analysis and methodology of this projet.
+* 
 # Project Overview
 
 ## Background
