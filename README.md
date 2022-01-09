@@ -10,7 +10,12 @@ More information on Whitefish Mountain Resort (a.k.a Big Mountain) can be found 
 * **raw_data:** A folder containing the original unedited version of the dataset used for this project in CSV format.
 * **data:** A folder containing three files of transformed data saved along the data analysis process to modeling.
 * **images:** A folder containing two images. The image "silverton_mountain_info.png" was used for... and the image "Whitefish Resort.png" was used as a banner for this Read Me file. 
-* **images:**
+* **models:** A folder containing captured models from the modeling stage of this project.
+* **Step Two - Data Wrangling:** A folder containing the data wrangling and cleaning code work for this project. This work was completed in Python using a Jupyter notebook.
+* **Step Three - Exploratory Data Analysis:** A folder containing the EDA code work for this project. This work was completed in Python using a Jupyter notebook.
+* **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
+* **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
+
 ## Tools and Editors
 Jupyter Notebook and Anaconda Prompt
 
