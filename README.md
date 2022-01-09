@@ -2,7 +2,7 @@
 # Ski Mountain Resort Capstone
 An end-to-end project completed for Whitefish Mountain Resort, located at Big Mountain in northwestern Montana. 
 
-The goal of this project was to develop a pricing model for ski resort tickets in Big Mountain's market segment. Big Mountain suspected it may not be maximizing its returns, relative to its position in the market. They also didn't have a strong sense of what facilities matter most to visitors, particularly which ones vistors are most likely to pay more for. The deliverable is a predictive model intended to provide guidance for Big Mountain's pricing and future facility investment plans by exploring machine learning models and statistical analysis related to opportunity sizing, targeting, and optimization. 
+The goal of this project was to develop a pricing model for ski resort tickets in Big Mountain's market segment. The deliverable is a predictive model intended to provide guidance for Big Mountain's pricing and future facility investment plans by exploring machine learning models and statistical analysis related to opportunity sizing, targeting, and optimization. 
 
 More information on Whitefish Mountain Resort (a.k.a Big Mountain) can be found here: https://skiwhitefish.com/
 
@@ -16,13 +16,21 @@ More information on Whitefish Mountain Resort (a.k.a Big Mountain) can be found 
 * **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
 * **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
 
+# Project Overview
+
+## Background
+Big Mountain suspected it may not be maximizing its returns, relative to its position in the market. They also didn't have a strong sense of what facilities matter most to visitors, particularly which ones vistors are most likely to pay more for. As a result, they made public their situation and asked for insight from any inidustry experts or data scientist who were interested. This project is my response to their business problem.
+
+## Problem Statement
+How can "Big Mountain" Resort develop a data-driven business strategy that takes into consideration market segment, various facility values, and current operating costs to deliver the best ticket price while allowing changes that will either cut costs without undermining the ticket price or support an even higher ticket price?
+
 ## Tools and Editors
 Jupyter Notebook and Anaconda Prompt
 
 ## Libraries
 NumPy, Pandas, Matplotlib, Seaborn, and Sklearn
 
-## Capstone Project Involved
+## Project Includes
 * Problem Identification
 * Data Wrangling
   - Handling of missing and NA values
@@ -37,4 +45,3 @@ NumPy, Pandas, Matplotlib, Seaborn, and Sklearn
   - KMeans clustering and scatter plots 
     - co-relation coefficients 
     - model performance metrics
-* Summary of Findings
