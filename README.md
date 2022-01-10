@@ -35,22 +35,13 @@ NumPy, Pandas, Matplotlib, Seaborn, and Sklearn
 ## Project Includes
 * Problem Identification
 * Data Wrangling
-  - Handling of missing and NA values
-  - Removing duplicate rows
 * Exploratory Data Analysis (EDA)
-  - exploring co-relation between variables
 * Pre-processing, Training Data Development
 * Model Development and Selection
   - Linear regression and performance metrics
-    - Improve explained variance
-    - Reduce Mean Absolute Error
   - KMeans clustering and scatter plots 
-    - co-relation coefficients 
-    - model performance metrics
 * Final Model Selection
-  - Linear Regression model vs. Random Forest Regression model. 
-    - The result was the Random Forest model performance had a lower cross-validation mean absolute error by almost a $1. 
-    - It also exhibited less variability and its performance on the test set produced a performance consistent with its cross-validation results. 
+  - Linear Regression model vs. Random Forest Regression model.  
   - Therefore, the Random Forest Regression model was the model used for this project.
 * Modeling Scenarios (can be found in Step 5 Modeling folder in section 5.9)
 
