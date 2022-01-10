@@ -52,6 +52,7 @@ NumPy, Pandas, Matplotlib, Seaborn, and Sklearn
     - The result was the Random Forest model performance had a lower cross-validation mean absolute error by almost a $1. 
     - It also exhibited less variability and its performance on the test set produced a performance consistent with its cross-validation results. 
   - Therefore, the Random Forest Regression model was the model used for this project.
+* Modeling Scenarios (can be found in Step 5 Modeling folder in section 5.9)
 
 **Are you interested in knowing what were the final suggestions for Whitefish Resort??**
 See "Step Five - Modeling" for an in-depth detailing of the steps taken or check out the "Guided Capstone Slide Deck" to get a quick overview.
