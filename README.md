@@ -4,12 +4,12 @@ An end-to-end project completed for Whitefish Mountain Resort, located at Big Mo
 
 ## Core Skills Utilized
 * Visualizing High Dimensional Data (Scaling, PCA Transformation, Histograms)
-* Feature Engineering (Feature Correlation Map and Scatterplots)
+* Feature Engineering (Feature Correlation Map and Scatter plots)
 * Train/Test Splits (Base Modeling)
 * Performance Metrics (MSE, MAE, R-Squared,RMSE)
 * Hyperparameter search (GridSearchCV)
 * Defining Pipelines (Linear Regression, Random Forest Regression) 
-* Model Assestment and Predictions (Cross-validation and Accuracy Score)
+* Model Assessment and Predictions (Cross-validation and Accuracy Score)
 
 # Project Overview
 
@@ -19,7 +19,7 @@ The goal of this project was to develop a pricing model for ski resort tickets i
 More information on Whitefish Mountain Resort (a.k.a Big Mountain) can be found here: https://skiwhitefish.com/
 
 ## Background
-Big Mountain suspected it may not be maximizing its returns, relative to its position in the market. They also didn't have a strong sense of what facilities matter most to visitors, particularly which ones vistors are most likely to pay more for. As a result, they made public their situation and asked for insight from any inidustry experts or data scientist who were interested. This project is my response to their business problem.
+Big Mountain suspected it may not be maximizing its returns, relative to its position in the market. They also didn't have a strong sense of what facilities matter most to visitors, particularly which ones visitors are most likely to pay more for. As a result, they made public their situation and asked for insight from any industry experts or data scientists who were interested. This project is my response to their business problem.
 
 ## Problem Statement
 How can "Big Mountain" Resort develop a data-driven business strategy that takes into consideration market segment, various facility values, and current operating costs to deliver the best ticket price while allowing changes that will either cut costs without undermining the ticket price or support an even higher ticket price?
