@@ -35,3 +35,4 @@ How can "Big Mountain" Resort develop a data-driven business strategy that takes
 * **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
 * **Whitefish Project Summary:** A two-page PDF document summarizing the findings of my analysis for Whitefish Mountain Resort's non-technical stakeholders.
 * **Guided Capstone Slide Deck:** A PDF document in a presentation style for a quick overview of the project for technical stakeholders.
+* **Project Pitch Worksheet:** A PDF document introducing the company, business problem, strategy, initial documents, and data received from the client.
