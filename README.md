@@ -3,12 +3,13 @@
 An end-to-end project completed for Whitefish Mountain Resort, located at Big Mountain in northwestern Montana. 
 
 ## Core Skills Utilized
-* KMeans clustering
-* Performance metrics (...)
+* Visualizing High Dimensional Data (Scaling, PCA Transformation, Histograms)
+* Feature Engineering (Feature Correlation Map and Scatterplots)
+* Train/Test Splits (Base Modeling)
+* Performance Metrics (MSE, MAE, R-Squared,RMSE)
 * Hyperparameter search (GridSearchCV)
-* Linear regression modeling
-* Random Forest Regression modeling 
-* Performance metrics (Cross-validation, MSE, ...)
+* Defining Pipelines (Linear Regression, Random Forest Regression) 
+* Model Assestment and Predictions (Cross-validation and Accuracy Score)
 
 # Project Overview
 
