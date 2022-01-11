@@ -34,4 +34,4 @@ How can "Big Mountain" Resort develop a data-driven business strategy that takes
 * **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
 * **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
 * **Guided Capstone Project Report:** A PDF document detailing the end-to-end analysis and methodology of this projet. Originally included a voiceover recording for final presentation that has sense been removed.
-* **Guided Capstone Slide Deck:** A PDF document in a presentation style for a quick ovrview of the project for stakeholders.
+* **Guided Capstone Slide Deck:** A PDF document in a presentation style for a quick overview of the project for technical stakeholders.
