@@ -24,6 +24,9 @@ Big Mountain suspected it may not be maximizing its returns, relative to its pos
 ## Problem Statement
 How can "Big Mountain" Resort develop a data-driven business strategy that takes into consideration market segment, various facility values, and current operating costs to deliver the best ticket price while allowing changes that will either cut costs without undermining the ticket price or support an even higher ticket price?
 
+## Results
+Delivered a Random Forest Machine Learning Regression Model recommending an increase in ticket pricing by at least 12.3% to max 19.7% by evaluating Scenario 3 which forecasted a seasonal profit of $2.3M higher than the other business scenarios analyzed.
+
 ## Contents
 * **raw_data:** A folder containing the original unedited version of the dataset used for this project in CSV format.
 * **data:** A folder containing three files of transformed data saved along the data analysis process to modeling.
