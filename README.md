@@ -10,18 +10,6 @@ An end-to-end project completed for Whitefish Mountain Resort, located at Big Mo
 * Random Forest Regression modeling 
 * Performance metrics (Cross-validation, MSE, ...)
 
-## Contents
-* **raw_data:** A folder containing the original unedited version of the dataset used for this project in CSV format.
-* **data:** A folder containing three files of transformed data saved along the data analysis process to modeling.
-* **images:** A folder containing two images. The image "silverton_mountain_info.png" was used for... and the image "Whitefish Resort.png" was used as a banner for this Read Me file. 
-* **models:** A folder containing captured models from the modeling stage of this project.
-* **Step Two - Data Wrangling:** A folder containing the data wrangling and cleaning code work for this project. This work was completed in Python using a Jupyter notebook.
-* **Step Three - Exploratory Data Analysis:** A folder containing the EDA code work for this project. This work was completed in Python using a Jupyter notebook.
-* **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
-* **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
-* **Guided Capstone Project Report:** A PDF document detailing the end-to-end analysis and methodology of this projet. Originally included a voiceover recording for final presentation that has sense been removed.
-* **Guided Capstone Slide Deck:** A PDF document in a presentation style for a quick ovrview of the project for stakeholders.
-
 # Project Overview
 
 ## Objective
@@ -34,3 +22,15 @@ Big Mountain suspected it may not be maximizing its returns, relative to its pos
 
 ## Problem Statement
 How can "Big Mountain" Resort develop a data-driven business strategy that takes into consideration market segment, various facility values, and current operating costs to deliver the best ticket price while allowing changes that will either cut costs without undermining the ticket price or support an even higher ticket price?
+
+## Contents
+* **raw_data:** A folder containing the original unedited version of the dataset used for this project in CSV format.
+* **data:** A folder containing three files of transformed data saved along the data analysis process to modeling.
+* **images:** A folder containing two images. The image "silverton_mountain_info.png" was used for... and the image "Whitefish Resort.png" was used as a banner for this Read Me file. 
+* **models:** A folder containing captured models from the modeling stage of this project.
+* **Step Two - Data Wrangling:** A folder containing the data wrangling and cleaning code work for this project. This work was completed in Python using a Jupyter notebook.
+* **Step Three - Exploratory Data Analysis:** A folder containing the EDA code work for this project. This work was completed in Python using a Jupyter notebook.
+* **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
+* **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
+* **Guided Capstone Project Report:** A PDF document detailing the end-to-end analysis and methodology of this projet. Originally included a voiceover recording for final presentation that has sense been removed.
+* **Guided Capstone Slide Deck:** A PDF document in a presentation style for a quick ovrview of the project for stakeholders.
