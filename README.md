@@ -33,5 +33,5 @@ How can "Big Mountain" Resort develop a data-driven business strategy that takes
 * **Step Three - Exploratory Data Analysis:** A folder containing the EDA code work for this project. This work was completed in Python using a Jupyter notebook.
 * **Step Four - Preprocessing and Training:** A folder containing the preprocessing and training code work for this project. Work completed in Python using a Jupyter notebook.
 * **Step Five - Modeling:** A folder containing the modeling code work for this project. Work completed in Python using a Jupyter notebook.
-* **Guided Capstone Project Report:** A PDF document detailing the end-to-end analysis and methodology of this projet. Originally included a voiceover recording for final presentation that has sense been removed.
+* **Whitefish Project Summary:** A two-page PDF document summarizing the findings of my analysis for Whitefish Mountain Resort's non-technical stakeholders.
 * **Guided Capstone Slide Deck:** A PDF document in a presentation style for a quick overview of the project for technical stakeholders.
