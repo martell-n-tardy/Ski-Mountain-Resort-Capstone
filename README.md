@@ -26,23 +26,14 @@ Big Mountain suspected it may not be maximizing its returns, relative to its pos
 ## Problem Statement
 How can "Big Mountain" Resort develop a data-driven business strategy that takes into consideration market segment, various facility values, and current operating costs to deliver the best ticket price while allowing changes that will either cut costs without undermining the ticket price or support an even higher ticket price?
 
-## Tools and Editors
-Jupyter Notebook and Anaconda Prompt
-
-## Libraries
-NumPy, Pandas, Matplotlib, Seaborn, and Sklearn
-
-## Project Includes
-* Problem Identification
-* Data Wrangling
-* Exploratory Data Analysis (EDA)
-* Pre-processing, Training Data Development
-* Model Development and Selection
+## Core Skills Utilized
+* 
   - Linear regression and performance metrics
   - KMeans clustering and scatter plots 
 * Final Model Selection
-  - Linear Regression model vs. Random Forest Regression model.  
-  - Therefore, the Random Forest Regression model was the model used for this project.
+  - Hyperparameter search using GridSearchCV
+  - Linear Regression model vs. Random Forest Regression model. 
+  - Cross-validation utilized 
 * Modeling Scenarios (can be found in Step 5 Modeling folder in section 5.9)
 
 **Are you interested in knowing what were the final suggestions for Whitefish Resort??**
